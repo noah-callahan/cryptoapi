@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#coin-list{
+    margin-top: 100px;
+}
+
+#coin-list ul li{
+    text-transform:capitalize;
+    list-style: none;
+    display:inline;
+    border:1px solid black;
+    padding:20px;
+    margin:10px;
+    font-weight: bold;
+}
